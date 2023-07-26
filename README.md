@@ -1,2 +1,3 @@
 # Harry-Potter's Invisibility-Cloak
-Color detection &amp; Segmentation using python
+- capture and store background frame for few seconds
+- detect red colored cloth
